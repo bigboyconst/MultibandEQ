@@ -1,2 +1,2 @@
 # MultibandEQ
-A basic volume control effect plug-in with IGraphics GUI
+A basic multiband equalizer inspired by FabFilter's Pro-Q series with IGraphics GUI.
